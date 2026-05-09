@@ -1,0 +1,6 @@
+/venv
+models/
+data/
+*.pkl
+*.csv
+.gitattributes
